@@ -1,5 +1,7 @@
 names: [Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety Vest, Person, Safety Cone, Safety Vest, machinery, vehicle]
 nc: 10
-train: D:/IA/RNA-Yolov8_EPI-main/RNA-Yolov8_EPI-main/datasets/css_data/train
-val: D:/IA/RNA-Yolov8_EPI-main/RNA-Yolov8_EPI-main/datasets/css_data/valid
-test: D:/IA/RNA-Yolov8_EPI-main/RNA-Yolov8_EPI-main/datasets/css_data/test
+train: C:\Users\1vito\OneDrive\Documentos\UNIOESTE\3-Ano\IA\Trabalho-RNA\IA-YOLOv8/datasets/css_data/train
+val: C:\Users\1vito\OneDrive\Documentos\UNIOESTE\3-Ano\IA\Trabalho-RNA\IA-YOLOv8/datasets/css_data/valid
+test: C:\Users\1vito\OneDrive\Documentos\UNIOESTE\3-Ano\IA\Trabalho-RNA\IA-YOLOv8/datasets/css_data/test
+
+
